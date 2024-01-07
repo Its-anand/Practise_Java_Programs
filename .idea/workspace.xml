@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee31d16d-ae31-4803-9eee-4d6f8c7ebbf9" name="Changes" comment="">
+    <list default="true" id="ee31d16d-ae31-4803-9eee-4d6f8c7ebbf9" name="Changes" comment="Class and Object">
+      <change afterPath="$PROJECT_DIR$/src/ClassnObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestRun.java" afterDir="false" />
     </list>
@@ -42,7 +42,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DataType">
+  <component name="RunManager" selected="Application.ClassnObject">
+    <configuration name="ClassnObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassnObject" />
+      <module name="Practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataType" />
       <module name="Practise" />
@@ -60,15 +67,23 @@
     <configuration name="TestRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestRun" />
       <module name="Practise" />
+      <option name="PROGRAM_PARAMETERS" value="10 20 30" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ClassnObject" />
+      <item itemvalue="Application.DataType" />
+      <item itemvalue="Application.Input" />
+      <item itemvalue="Application.TestRun" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataType" />
-        <item itemvalue="Application.Input" />
+        <item itemvalue="Application.ClassnObject" />
         <item itemvalue="Application.TestRun" />
+        <item itemvalue="Application.Input" />
+        <item itemvalue="Application.DataType" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1703747692272</updated>
     </task>
+    <task id="LOCAL-00001" summary="Data Type">
+      <created>1704439056401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704439056401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +124,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data Type" />
+    <MESSAGE value="Class and Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and Object" />
   </component>
 </project>

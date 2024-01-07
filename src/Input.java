@@ -4,14 +4,16 @@ Class Program For Taking Input
 import java.util.Scanner;//util means utilities
 
 class InputClass{
-    private byte a, b;
+    private byte age;
+    private String name;
     public void setValue(){
         Scanner InputScanner = new Scanner(System.in);
-        a = InputScanner.nextByte();
-        b = InputScanner.nextByte();
+        name = InputScanner.nextLine();
+        age = InputScanner.nextByte();
+        //Did you notice something reference variable InputScanner is used for both string and number
     }
     public void displayValue(){
-        System.out.println("Value of a is "+ a + " Value of b is " +b);
+        System.out.println("Name is "+ name + " Age is " +age);
     }
 }
  public class Input{

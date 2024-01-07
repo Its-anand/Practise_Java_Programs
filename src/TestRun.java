@@ -1,5 +1,9 @@
-public class TestRun {
+public class TestRun{
     public static void main(String[] args){
-        System.out.println("This is a test run");
+        int add=0;
+        for (String arg : args) {
+            add = add + Integer.parseInt(arg);
+        }
+        System.out.println(add);
     }
 }
