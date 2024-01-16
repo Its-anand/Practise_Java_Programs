@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee31d16d-ae31-4803-9eee-4d6f8c7ebbf9" name="Changes" comment="Class and Object">
-      <change afterPath="$PROJECT_DIR$/src/InitializationBlock.java" afterDir="false" />
+    <list default="true" id="ee31d16d-ae31-4803-9eee-4d6f8c7ebbf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticMember.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClassnObject.executor": "Run",
+    "Application.DataType.executor": "Run",
     "Application.InitializationBlock.executor": "Run",
+    "Application.TestRun.executor": "Run",
+    "Application.literals.executor": "Run",
+    "Application.staticMember.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -52,7 +57,7 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DataType">
+  <component name="RunManager" selected="Application.literals">
     <configuration name="ClassnObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassnObject" />
       <module name="Practise" />
@@ -67,20 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InitializationBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InitializationBlock" />
-      <module name="Practise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Input" />
-      <module name="Practise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestRun" />
       <module name="Practise" />
@@ -89,20 +80,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals" />
+      <module name="Practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticMember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticMember" />
+      <module name="Practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.InitializationBlock" />
+      <item itemvalue="Application.literals" />
+      <item itemvalue="Application.staticMember" />
       <item itemvalue="Application.ClassnObject" />
       <item itemvalue="Application.DataType" />
-      <item itemvalue="Application.Input" />
       <item itemvalue="Application.TestRun" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.literals" />
+        <item itemvalue="Application.staticMember" />
+        <item itemvalue="Application.TestRun" />
         <item itemvalue="Application.DataType" />
         <item itemvalue="Application.ClassnObject" />
-        <item itemvalue="Application.InitializationBlock" />
-        <item itemvalue="Application.TestRun" />
-        <item itemvalue="Application.Input" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +141,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704597882745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Class and Object">
+      <option name="closed" value="true" />
+      <created>1705113774334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705113774334</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Class and Object">
+      <option name="closed" value="true" />
+      <created>1705113878406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705113878406</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Class and Object">
+      <option name="closed" value="true" />
+      <created>1705113899986</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705113899986</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
