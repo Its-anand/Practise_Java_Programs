@@ -15,6 +15,7 @@ class literalsClass{
         System.out.println("Value Separator 1_00_00_00_000 :"+c);
         System.out.println("Auto Type conversion 10 to :"+d);
         System.out.println("Auto Type conversion from Epsilon 10e20 to double :"+e);
+        System.out.println("Increment decrement in character: "+character);
     }
 }
 public class literals {
