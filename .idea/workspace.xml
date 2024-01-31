@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee31d16d-ae31-4803-9eee-4d6f8c7ebbf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticMember.java" afterDir="false" />
+    <list default="true" id="ee31d16d-ae31-4803-9eee-4d6f8c7ebbf9" name="Changes" comment="literals">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClassnObject.executor": "Run",
-    "Application.DataType.executor": "Run",
-    "Application.InitializationBlock.executor": "Run",
-    "Application.TestRun.executor": "Run",
-    "Application.literals.executor": "Run",
-    "Application.staticMember.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClassnObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InitializationBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.staticMember.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.literals">
+}</component>
+  <component name="RunManager" selected="Application.TestRun">
     <configuration name="ClassnObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassnObject" />
       <module name="Practise" />
@@ -103,9 +102,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRun" />
         <item itemvalue="Application.literals" />
         <item itemvalue="Application.staticMember" />
-        <item itemvalue="Application.TestRun" />
         <item itemvalue="Application.DataType" />
         <item itemvalue="Application.ClassnObject" />
       </list>
@@ -165,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705113899986</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="literals">
+      <option name="closed" value="true" />
+      <created>1705374522177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705374522177</updated>
+    </task>
+    <task id="LOCAL-00007" summary="literals">
+      <option name="closed" value="true" />
+      <created>1705374669443</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705374669443</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +205,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Data Type" />
     <MESSAGE value="Class and Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and Object" />
+    <MESSAGE value="literals" />
+    <option name="LAST_COMMIT_MESSAGE" value="literals" />
   </component>
 </project>
